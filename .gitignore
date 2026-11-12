@@ -1,0 +1,5 @@
+__pycache__/
+*.jwt
+*.cred
+.env
+*.session
